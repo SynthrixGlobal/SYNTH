@@ -4,7 +4,7 @@
   # Synthrix
   ### The Architecture of Nothing
   
-  *Exploring the quantum foundations of computational void states*
+  *Exploring the quantum foundations of computational void states. Reminder: AI-powered conversation chat-rooms designed for the true supporters of value zero is underway, this feature is not functional yet, but portions of it can be viewer in our Github repo.*
 
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Source-black?style=flat-square&logo=github)]([https://github.com](https://github.com/SynthrixGlobal))
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)]([https://twitter.com](https://x.com/Synthrix_Global))
